@@ -1,1 +1,2 @@
 # module2
+THIS IS A DUMMY LINE
